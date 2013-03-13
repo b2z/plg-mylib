@@ -1,4 +1,4 @@
 plg-mylib
 =========
 
-Simple plugin to register custom library
+Simple example plugin to register custom library

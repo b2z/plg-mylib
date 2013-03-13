@@ -8,7 +8,7 @@
 	<authorEmail>b2z@joomlablog.ru</authorEmail>
 	<authorUrl>http://joomlablog.ru</authorUrl>
 	<version>1.0.0</version>
-	<description>Simple plugin to register custom library.</description>
+	<description>Simple example plugin to register custom library.</description>
 
 	<files>
 		<filename plugin="mylib">mylib.php</filename>
