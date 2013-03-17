@@ -9,9 +9,9 @@
 defined('_JEXEC') or die;
 
 /**
- * @package  Mylib plugin
- *
  * Mylib plugin class.
+ *
+ * @package  Mylib plugin
  */
 class plgSystemMylib extends JPlugin
 {
